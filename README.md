@@ -156,6 +156,4 @@ voice_volume = 0.8
 
 ---
 
-## License
 
-MIT — Built with ❤️ and Anthropic Claude
