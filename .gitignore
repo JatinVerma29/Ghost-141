@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment — never commit this
+venv/
+.venv/
+
+# Secrets — never commit this
+.env
+*.env
+
+# Personal memory — never commit this
+.ghost141/
+memory.json
+frequencies.json
+
+# Logs and temp
+logs/
+*.log
+
+# Test scripts — optional, remove these lines to include them
+test_mic.py
+test_mic2.py
+pyaudio.whl
+
+# Face data — contains your photo
+face_data/
+known_faces/
+*.pkl
+*.npy
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

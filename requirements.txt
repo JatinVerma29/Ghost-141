@@ -1,0 +1,31 @@
+# Ghost-141 v5.5 — JARVIS MODE
+# pip install -r requirements.txt
+
+# Core
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Voice — Jarvis neural voice (FREE, no API key)
+edge-tts>=6.1.9
+pygame>=2.6.0
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+# PyAudio for microphone — install separately on Windows:
+#   pip install pipwin && pipwin install pyaudio
+
+# System control
+pyautogui>=0.9.54
+psutil>=5.9.0
+pyperclip>=1.8.2
+
+# Web scraping (news, cricket, weather)
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Face Recognition (OPTIONAL but recommended)
+# opencv-python>=4.8.0
+# face-recognition>=1.3.0
+# numpy>=1.24.0
+#
+# Windows install:
+#   pip install cmake dlib face-recognition opencv-python
