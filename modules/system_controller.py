@@ -1,3 +1,4 @@
+#system_controller.py
 """
 modules/system_controller.py — OS-level control for Ghost-141
 """
